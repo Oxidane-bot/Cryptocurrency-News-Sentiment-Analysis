@@ -1,2 +1,2 @@
-pip3 install feedparser
-pip3 install nltk
+'feedparser'
+'nltk'
